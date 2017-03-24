@@ -28,6 +28,7 @@ print("shuzu1的倒数第三个变量值:",shuzu1[-3])
 # print("shuzu1的第四个变量值:",shuzu1[3])
 # print("shuzu1的倒数第四个变量值:",shuzu1[-4])
 
+# 下面这道题，数组里的数组，我们也可以理解为大数组是“年纪”，“小数组是班级”
 shuzu2=[1,shuzu1]
 print(shuzu2)
 print(len(shuzu2))
@@ -49,4 +50,7 @@ print("小数组它的第一个变量值:",xiaoshuzu[0])
 print("小数组它的第二个变量值:",xiaoshuzu[1])
 print("小数组它的第三个变量值:",xiaoshuzu[2])
 
-
+'''
+课后作业： 请定义一个 有 10个同学的数组，把这10个同学的本期数学成绩输入进去;并且把数组的长度，
+以及数组的内容展示出来
+'''

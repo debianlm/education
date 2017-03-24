@@ -5,7 +5,6 @@ Created on 2017年3月24日
 
 @author: bufan
 '''
-from re import search
 
 # 这个程序我们展示下，如果使用已知固定长度的数组
 
